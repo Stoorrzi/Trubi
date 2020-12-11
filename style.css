@@ -24,16 +24,15 @@ main {
 }
 
 #image {
-    width: 1000px;
+    width: 60rem;
     border-radius: 20px;
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
 }
 
 #img-caption {
     font-size: 25px; 
     background-color: #FFF; 
-      
+    margin-top: 0.7rem;
+ 
 }
 
 .Farbe {
@@ -41,6 +40,7 @@ main {
     height: 540px;
     display: inline-block;
     border-radius: 25px;
+    width: 100%;
 }
 
 #tribute-info {
@@ -49,8 +49,7 @@ main {
 
 p {
     font-size: 25px;
-    max-width: 1000px;
-    padding-left: 250px;
+    max-width: 100rem;
 }
 
 h3 {
@@ -65,4 +64,16 @@ h3 {
 
 .schluss {
     margin-top: 100px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.weiss {
+    background-color: #FFF;
 }
