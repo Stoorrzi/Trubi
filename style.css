@@ -13,10 +13,8 @@ main {
     font-size: 50px;
     font-weight: bolder;
     margin: 16px;
-    color: #474747;
-    
-   
-    
+    color: #474747; 
+    margin: 2rem;  
 }
 
 #img-div {
@@ -39,7 +37,6 @@ main {
     background-color: #FFF;
     height: 540px;
     display: inline-block;
-    border-radius: 25px;
     width: 100%;
 }
 
