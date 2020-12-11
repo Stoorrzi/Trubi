@@ -1,0 +1,68 @@
+* {
+    background-color: #D5D8DC;
+}
+
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+#text {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 16px;
+    color: #474747;
+    
+   
+    
+}
+
+#img-div {
+    text-align: center;
+}
+
+#image {
+    width: 1000px;
+    border-radius: 20px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+#img-caption {
+    font-size: 25px; 
+    background-color: #FFF; 
+      
+}
+
+.Farbe {
+    background-color: #FFF;
+    height: 540px;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+#tribute-info {
+    font-size: 30px;
+}
+
+p {
+    font-size: 25px;
+    max-width: 1000px;
+    padding-left: 250px;
+}
+
+h3 {
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.filme {
+    font-size: 25px;
+    margin-top: auto;
+}
+
+.schluss {
+    margin-top: 100px;
+}
